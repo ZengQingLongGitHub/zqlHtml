@@ -1,1 +1,301 @@
-阿阿斯顿阿萨德
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>xxxx</title>
+
+    <style>
+
+
+        body {
+            background-image: linear-gradient(#00FFFF, #66FF99);
+        }
+
+        .container {
+
+            width: 1885px;
+
+        }
+
+        .biaoti {
+            width: 1560px;
+            height: 200px;
+            border: 1px solid green;
+            float: right;
+        }
+
+        .mulv {
+            position: fixed;
+            width: 290px;
+            border: 2px groove green;
+            top: 8px;
+            left: 10px;
+            padding-left: 10px;
+
+        }
+
+        .wangzhan {
+            margin-top: 20px;
+            float: right;
+            width: 1550px;
+            border: 1px solid green;
+            top: 500px;
+            left: 550px;
+            padding-left: 10px;
+        }
+
+        h2 {
+            color: hotpink;
+        }
+
+        h4 {
+            color: darksalmon;
+            line-height: 15px;
+        }
+
+        a {
+            text-decoration: none;
+        }
+
+        ul {
+            list-style-type: none;
+            padding: 0px;
+            margin: 0px;
+        }
+
+        ul li {
+            /*background-image: url('imgs\1f608.png');*/
+            background-repeat: no-repeat;
+            background-position: 0px 5px;
+            padding-left: 15px;
+            /*border-bottom-color: cadetblue;*/
+            /*border-bottom-width: 3px;*/
+            /*border-bottom-style: ridge;*/
+
+            border-top-color: cadetblue;
+            border-top-width: 1px;
+            border-top-style: solid;
+
+            margin-bottom: 100px;
+            margin-top: 10px;
+        }
+
+        img {
+            display: block;
+            margin: auto;
+        }
+
+
+    </style>
+
+
+</head>
+
+<body>
+
+
+<div class="container">
+
+    <div class="biaoti">
+        <img src="imgs\baozi.gif" width="230" height="120" id="zz" class="zzz"/>
+    </div>
+
+
+    <div class="mulv">
+        <a href="#yunwei2.0"><h4>运维系统-CMS2.0</h4></a>
+        <a href="#yunwei3.0"><h4>运维系统-CMS3.0</h4></a>
+        <a href="#GitLab"><h4>GitLab</h4></a>
+        <a href="#ShowDoc"><h4>ShowDoc</h4></a>
+        <a href="#worktile"><h4>worktile</h4></a>
+        <a href="#YApi"><h4>YApi</h4></a>
+        <a href="#APOLLO"><h4>APOLLO</h4></a>
+        <a href="#CAT"><h4>CAT</h4></a>
+        <a href="#ReviewBoard"><h4>ReviewBoard</h4></a>
+        <a href="#Transformers"><h4>Transformers</h4></a>
+        <a href="#yuque"><h4>师傅产品开发部（语雀）</h4></a>
+        <a href="#zidongshengcheng"><h4>自动生成</h4></a>
+        <a href="#kuaizhao"><h4>快照</h4></a>
+        <a href="#mailbox"><h4>企业邮箱</h4></a>
+        <a href="#log"><h4>日志</h4></a>
+        <a href="#user"><h4>下单网站（用户、总包）</h4></a>
+        <a href="#ocs"><h4>OCS后台</h4></a>
+        <a href="#ppt"><h4>ppt模板</h4></a>
+        <a href="#ps"><h4>在线抠图</h4></a>
+        <a href="#diagrams"><h4>在线流程图</h4></a>
+    </div>
+
+
+    <div class="wangzhan">
+        <ul>
+            <li>
+                <a href="http://yw.wanshifu.com/index.html" target="_blank"><h2 id="yunwei2.0">运维系统-CMS2.0</h2></a>
+                <dd><b>账号：</b>13317993354</dd>
+                <dd><b>密码：</b>z1258715207</dd>
+            </li>
+
+
+            <li>
+                <a href="http://yw-frontend.wanshifu.com/#/home/index" target="_blank"><h2 id="yunwei3.0">
+                    运维系统-CMS3.0</h2></a>
+                <dd><b>账号：</b>13317993354</dd>
+                <dd><b>密码：</b>z1258715207</dd>
+            </li>
+
+            <li>
+                <a href="http://git.wanshifu.com/" target="_blank"><h2 id="GitLab">GitLab</h2></a>
+                <dd><b>账号：</b>zengqinglong</dd>
+                <dd><b>密码：</b>z1258715207</dd>
+            </li>
+
+            <li>
+                <a href="http://showdoc.wanshifu.com/index.php?s=/Home/Item/index" target="_blank"><h2 id="ShowDoc">
+                    ShowDoc</h2></a>
+                <dd><b>账号：</b>read_user</dd>
+                <dd><b>密码：</b>123123</dd>
+            </li>
+
+            <li>
+                <a href="https://wanshifu.worktile.com/" target="_blank"><h2 id="worktile">worktile</h2></a>
+                <dd><b>账号：</b>zengqinglong@wshifu.com</dd>
+                <dd><b>密码：</b>z1258715207</dd>
+            </li>
+
+            <li>
+                <a href="http://dev-api-manage.wanshifu.com:3000/group/296" target="_blank"><h2 id="YApi">YApi</h2></a>
+                <dd><b>账号：</b>zengqinglong@wshifu.com</dd>
+                <dd><b>密码：</b>z1258715207</dd>
+            </li>
+
+            <li>
+                <a href="http://dev-apollo-config-service.wanshifu.com:8070/signin" target="_blank"><h2 id="APOLLO">
+                    APOLLO</h2></a>
+                <dd><b>账号：</b>zengqinglong@wshifu.com</dd>
+                <dd><b>密码：</b>zql20200522</dd>
+            </li>
+
+            <li>
+                <a href="http://monitor-cat.wanshifu.com:8080/cat/r/top?op=view" target="_blank"><h2 id="CAT">CAT</h2>
+                </a>
+            </li>
+
+            <li>
+                <a href="http://rb.wanshifu.com/users/zengqinglong/" target="_blank"><h2 id="ReviewBoard">
+                    Review Board</h2></a>
+                <dd><b>账号：</b>zengqinglong</dd>
+                <dd><b>密码：</b>z1258715207</dd>
+            </li>
+
+            <li>
+                <h2 id="Transformers">Transformers</h2>
+                <dd><a href="http://transformers-manager.wanshifu.com:8080/" target="_blank"><h3>Transformers</h3></a>
+                    <a href="http://dev-transformers-manager.wanshifu.com/index" target="_blank"><h3>
+                        dev-Transformers</h3></a>
+                    <a href="http://test-transformers-manager.wanshifu.com/index" target="_blank"><h3>
+                        test-Transformers</h3></a></dd>
+                <dd><b>账号：</b>admin</dd>
+                <dd><b>密码：</b>123456</dd>
+            </li>
+
+            <li>
+                <a href="https://wanshifu.yuque.com/tmklv9" target="_blank"><h2 id="yuque">
+                    师傅产品开发部文档（语雀）</h2></a>
+                <dd><b>钉钉登录</b></dd>
+            </li>
+
+            <li>
+                <a href="http://192.168.1.90:8000/" target="_blank"><h2 id="zidongshengcheng">自动生成</h2></a>
+            </li>
+
+            <li>
+                <a href="http://nexus.wanshifu.com/#browse/search/custom=keyword%3Dmaster-activity-service%20AND%20attributes.maven2.groupId%3Dcom.wanshifu%20AND%20attributes.maven2.artifactId%3Dmaster-activity-service-api"
+                   target="_blank"><h2 id="kuaizhao">快照</h2>
+                </a>
+            </li>
+
+            <li>
+                <a href="https://exmail.qq.com/cgi-bin/loginpage?t=dm_loginpage&dmtype=bizmail&s=session_timeout"
+                   target="_blank"><h2 id="mailbox">
+                    企业邮箱</h2></a>
+                <dd><b>账号：</b>zengqinglong@wshifu.com</dd>
+                <dd><b>密码：</b>zZ1258715207</dd>
+            </li>
+
+            <li>
+                <h2 id="log">日志</h2></a>
+                <dd><a href="https://sls.console.aliyun.com/next/project/wshifu-prod/logsearch/online_java_log"
+                       target="_blank"><h3>线上日志</h3></a></dd>
+                <dd><b>账号：</b>read-logs@wanshifu.onaliyun.com</dd>
+                <dd><b>密码：</b>qweQWE123</dd>
+
+                <dd><a href="http://192.168.1.15:5601/app/kibana#/home?_g=()" target=" _blank"><h3>
+                    dev日志</h3></a></dd>
+                <dd><b>账号：</b>elastic</dd>
+                <dd><b>密码：</b>elastic</dd>
+
+                <dd><a href="http://172.18.193.177:5601/app/kibana#/home?_g=()" target=" _blank"><h3>
+                    test日志</h3></a></dd>
+                <dd><b>账号：</b>elastic</dd>
+                <dd><b>密码：</b>1qaz2WSX</dd>
+            </li>
+
+            <li>
+                <h2 id="user">下单网站（用户、总包）</h2></a>
+                <dd><a href="http://dev-user.wanshifu.com/" target="_blank"><h3>dev用户网站</h3></a></dd>
+                <dd><b>id：</b>87484579</dd>
+                <dd><b>name：</b>欧亚美</dd>
+                <dd><b>Phone：</b>13636554819</dd>
+                <dd><b>密码：</b>dev@123456</dd>
+
+                <dd><a href="https://test-user.wanshifu.com/login?url=https://test-user.wanshifu.com/publish"
+                       target=" _blank"><h3>test用户网站</h3></a></dd>
+                <dd><b>id：</b>87484579</dd>
+                <dd><b>name：</b>面皮哥</dd>
+                <dd><b>Phone：</b>18291675556</dd>
+                <dd><b>密码：</b>test@123456</dd>
+
+                <dd><a href="https://test-enterprise.wanshifu.com/login?pathname=/" target=" _blank"><h3>test总包网站</h3>
+                </a></dd>
+                <dd><b>账号：</b>minshujun</dd>
+                <dd><b>密码：</b>test@123456</dd>
+            </li>
+
+            <li>
+                <h2 id="ocs">OCS后台</h2></a>
+                <dd><a href="http://dev-ocs.wanshifu.com/login/index#5" target="_blank"><h3>dev-OCS后台</h3></a></dd>
+                <dd><b>账号：</b>admin</dd>
+                <dd><b>密码：</b>adminwsf</dd>
+
+                <dd><a href="https://test-ocs.wanshifu.com/login/index#5" target=" _blank"><h3>test-OCS后台</h3></a></dd>
+                <dd><b>账号：</b>admin</dd>
+                <dd><b>密码：</b>adminwsf</dd>
+
+                <dd><a href="https://ocs.wanshifu.com/login/index" target=" _blank"><h3>OCS后台</h3></a></dd>
+                <dd><b>账号：</b>曾庆龙</dd>
+                <dd><b>密码：</b>BinZai666</dd>
+            </li>
+
+            <li>
+                <a href="https://www.ypppt.com/" target="_blank"><h2 id="ppt">ppt模板</h2></a>
+            </li>
+
+            <li>
+                <a href="https://aipix.net/editor/?lang=zh" target="_blank"><h2 id="ps">在线扣图</h2></a>
+            </li>
+
+            <li>
+                <a href="https://app.diagrams.net/" target="_blank"><h2 id="diagrams">在线流程图</h2></a>
+            </li>
+			
+			 <li>
+                <a href="https://www.uupoop.com/#/" target="_blank"><h2 id="diagrams">在线ps</h2></a>
+            </li>
+
+        </ul>
+
+        <hr>
+        <a href="#zz">首页</a>
+    </div>
+</div>
+</body>
+</html>
